@@ -1,0 +1,6 @@
+@SIRIMApi_HostAddress = http://localhost:5183
+
+GET {{SIRIMApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
